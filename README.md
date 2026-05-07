@@ -45,7 +45,7 @@ BSc IT Software Engineering student in my 3rd year . I enjoy working on software
 
 - LinkedIn: <your-linkedin-linhttps://www.linkedin.com/in/jared-jose-jo%C3%A3o-247697363/>
 - Email: <jaredjoao@gmail.com>
-- Portfolio (if you have one): <your-portfolio-link>
+- Portfolio: I still need to make this one soon.
 
 ---
 
