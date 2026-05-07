@@ -1,5 +1,5 @@
 # Hi, I'm Jared Joao 👋
-BSc IT Software Engineering student in my 3rd year focused on building reliable backend systems and scalable applications. I enjoy working on real-world problems involving APIs, databases, and secure software design.
+BSc IT Software Engineering student in my 3rd year . I enjoy working on software design.
 ---
 
 🚧 What I'm Currently Working On
